@@ -1,0 +1,23 @@
+.navbar {
+    background-color: white;
+}
+
+.index {
+    margin-top: 50px;
+}
+
+#map {
+    border-radius: 10px;
+    margin-top: 15px;
+    height: 590px;
+    width: 765px;
+}
+
+.btn {
+    border-radius: 20px;
+}
+
+p {
+    margin: 0;
+    padding: 0;
+}
